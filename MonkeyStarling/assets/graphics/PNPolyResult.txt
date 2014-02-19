@@ -1,0 +1,22 @@
+Simple plain text exporter for demo purposes
+
+See http://www.grantlee.org/apidox/for_themers.html for more information
+
+Custom values (from the <bodies> section)
+    Grav: 
+
+List of all bodies:
+
+
+		Name:               dagger
+			AnchorPointRel: { 0.500,0.615 }
+			AnchorPointAbs: { 37.000,16.000 }
+			Size:           { 74.000,26.000 }
+		
+		List of all fixtures:
+		
+	polyX: 0 ,6,6,-28,-39,-27,6,6,10,10,32,38,29,10,10,6,0
+	
+	polyY: 0 ,-16,-7,-7,-4,0,0,10,10,-0,0,-3,-8,-6,-15,-16,0
+	
+
